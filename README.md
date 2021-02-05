@@ -1,4 +1,5 @@
-<h1>Build a Super Cool Portfolio in just 10min using [Gatsby](https://www.gatsbyjs.org/)</h1>
+<h1>Build a Super Cool Portfolio in just 10min using Gatsby</h1>
+<p>(https://www.gatsbyjs.org/)</p>
 
 <p align="center">
   <a href="https://cara.lekoarts.de">
